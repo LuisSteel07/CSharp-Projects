@@ -1,0 +1,17 @@
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.csproj.AssemblyReference.cache
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.AssemblyInfoInputs.cache
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.AssemblyInfo.cs
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\TODO List.exe
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\TODO List.deps.json
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\TODO List.runtimeconfig.json
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\TODO List.dll
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\TODO List.pdb
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.csproj.CopyComplete
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.dll
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\refint\TODO List.dll
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.pdb
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\TODO List.genruntimeconfig.cache
+C:\Users\samsung\Documents\Ejercicios\C#\TODO List\obj\Debug\net7.0\ref\TODO List.dll
