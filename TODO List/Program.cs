@@ -1,26 +1,24 @@
-﻿using Newtonsoft.Json;
-using System;
-
-public class Persona
+﻿class Program
 {
-    public string Nombre { get; set; }
-    public int Edad { get; set; }
-}
+    static ORM orm = new ORM("Data Source=db.db;Version=3;");
+    
+    static void LoginUser(){}
 
-class Program
-{
-    static void Main()
-    {
-        // Crear un objeto
-        Persona persona = new Persona { Nombre = "Juan", Edad = 30 };
+    static void SingUp(){
+        
+    }
 
-        // Serializar el objeto a JSON
-        string json = JsonConvert.SerializeObject(persona);
-        Console.WriteLine("JSON: " + json);
+    static void LogoutUser(){}
 
-        // Deserializar el JSON a un objeto
-        Persona personaDeserializada = JsonConvert.DeserializeObject<Persona>(json);
-        Console.WriteLine("Nombre: " + personaDeserializada.Nombre);
-        Console.WriteLine("Edad: " + personaDeserializada.Edad);
+    static void Main(){
+        orm.InitDB();
+
+        Task u1 = new Task("Luis", "12345678987", "programing");
+
+        orm.Execute(u1.CreateQuery());
+
+        Console.WriteLine("Bienvenido al Administrador de Tareas");
+        Console.WriteLine("Seleccione una opcion:");
+        
     }
 }

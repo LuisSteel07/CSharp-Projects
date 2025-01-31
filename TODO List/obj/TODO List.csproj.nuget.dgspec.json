@@ -38,9 +38,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "System.Data.SQLite": {
               "target": "Package",
-              "version": "[13.0.3, )"
+              "version": "[1.0.119, )"
             }
           },
           "imports": [
