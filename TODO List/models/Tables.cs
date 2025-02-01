@@ -1,4 +1,0 @@
-enum Tables{
-    User,
-    Task
-}
